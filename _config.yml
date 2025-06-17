@@ -2,4 +2,3 @@ title: Taflsheim Blog
 author: Tiago Tresoldi
 url: https://taflsheim.github.io/blog
 baseurl: /blog
-permalink: /blog/:year/:month/:day/:title/
